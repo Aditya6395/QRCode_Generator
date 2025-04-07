@@ -1,7 +1,11 @@
 
 # QR Generator
+
+![Screenshot (681)](https://github.com/user-attachments/assets/75f8efc6-ad54-4a8b-8a52-4d27f708f1ab)
+
 A QR Code Generator made with the help of Node.js. Other Technologies used are Express.js and EJS.
 ## Demo : https://qrcode-generator-x3cc.onrender.com/
+
 
 
 
