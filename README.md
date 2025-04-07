@@ -3,7 +3,7 @@
 A QR Code Generator made with the help of Node.js. Other Technologies used are Express.js and EJS.
 ## Demo
 
-https://qrcode-xguy.onrender.com/
+
 
 
 ## Features
